@@ -95,4 +95,4 @@ Missione fallita!\xfffeIl tuo compagno se n'è andato...\xf000븁\x0000Il mondo 
 Missione ricominciata!\xfffeTempo: Sessanta secondi!
 \xf000Ā\x0001\x0000 è entrato\xfffenell'Intramondo!\xf000븁\x0000
 Non puoi entrare\xfffenell'Intramondo qui!
-Ha avuto inizio una missione\xfffeper aiutarsi, quindi ritornerai\xf000븀\x0000al tuo mondo.\xf000븁\x0000
+Ha avuto inizio una missione\xfffeper aiutarti, quindi ritornerai\xf000븀\x0000al tuo mondo.\xf000븁\x0000
